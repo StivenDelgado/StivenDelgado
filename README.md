@@ -47,7 +47,7 @@
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/nestjs.png" alt="NestJS" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/java.png" alt="Java" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="Java" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="40" height="40"/>
 </p>
@@ -70,7 +70,6 @@
   <img src="https://img.icons8.com/color/48/000000/npm.png" alt="NPM" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/vite.png" alt="Vite" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/react-query.png" alt="React Query" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" width="40" height="40"/>
 </p>
 
