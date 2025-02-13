@@ -60,7 +60,7 @@
 
 ### Cloud & DevOps:
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/azure.png" alt="Azure" width="40" height="40"/>
+  <img src="https://simpleicons.org/icons/microsoftazure.svg" alt="Azure" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" height="40"/>
 </p>
