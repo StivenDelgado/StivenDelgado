@@ -1,36 +1,117 @@
-<div align="center" width="50">
+<div align="center">
+  <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Stiven Delgado</h1>
+  <h3 align="center">A passionate Fullstack Developer from Colombia</h3>
 </div>
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Stiven Delgado</h1>
-
-## About Me :
-
-- 🎓 Studying Software Engineering at **Universidad EAM**
-- 🏡 Lives in **Colombia**
-- ⚡ **Fun Facts**: Passionate about learning new technologies and facing new challenges.
 
 <br>
 
-## Connect with me ☕ :
+## 👨‍💻 About Me :
+
+- 🎓 I’m currently studying **Software Engineering** at **Universidad EAM**.
+- 🌍 I live in **Colombia**.
+- 🚀 I’m passionate about learning new technologies and facing new challenges.
+- 💡 Fun fact: I love solving problems and building scalable applications.
 
 <br>
 
-[![@StivenDelgado](https://img.icons8.com/fluency/48/000000/linkedin.png "@StivenDelgado")](https://www.linkedin.com/in/stiven-delgado/) [![@3242815979](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@3242815979")](tel:3242815979) [![@delgadositven123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@delgadositven123@gmail.com")](mailto:delgadositven123@gmail.com)
+## 🌐 Connect with Me :
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/stiven-delgado/">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="tel:3242815979">
+    <img src="https://img.icons8.com/color/48/000000/phone.png" alt="Phone" width="40" height="40"/>
+  </a>
+  <a href="mailto:delgadositven123@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" width="40" height="40"/>
+  </a>
+</p>
 
 <br>
 
-## What I am Good at 🧑‍💻 :
+## 🛠️ Technologies & Tools :
 
-<br>
+### Frontend Development:
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="TailwindCSS" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="40" height="40"/>
+</p>
 
-### Frontend:
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-
-### Backend:
-<img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/color/48/000000/express.png"/> <img src="https://img.icons8.com/color/48/000000/nestjs.png"/> <img src="https://img.icons8.com/color/48/000000/java.png"/> <img src="https://img.icons8.com/color/48/000000/spring-boot.png"/> <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
+### Backend Development:
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/nestjs.png" alt="NestJS" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/java.png" alt="Java" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="40" height="40"/>
+</p>
 
 ### Databases:
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" width="40" height="40"/>
+</p>
 
 ### Tools:
-<img src="https://img.icons8.com/color/48/000000/npm.png"/> <img src="https://img.icons8.com/color/48/000000/git.png"/> <img src="https://img.icons8.com/color/48/000000/vite.png"/> <img src="https://img.icons8.com/color/48/000000/react-query.png"/>
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/npm.png" alt="NPM" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/vite.png" alt="Vite" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/react-query.png" alt="React Query" width="40" height="40"/>
+</p>
 
+<br>
+
+## 🚀 Projects :
+
+<p align="center">
+  <a href="https://github.com/SitvenDelgado/portafolio.git">
+    <img src="https://img.icons8.com/color/48/000000/project.png" alt="Portfolio" width="40" height="40"/>
+    <strong>Portfolio</strong>
+  </a>
+  <a href="https://github.com/SitvenDelgado/SpringCrud.git">
+    <img src="https://img.icons8.com/color/48/000000/project.png" alt="Spring CRUD" width="40" height="40"/>
+    <strong>Spring CRUD</strong>
+  </a>
+  <a href="https://github.com/SitvenDelgado/firebaseCRUD.git">
+    <img src="https://img.icons8.com/color/48/000000/project.png" alt="Firebase CRUD" width="40" height="40"/>
+    <strong>Firebase CRUD</strong>
+  </a>
+</p>
+
+<br>
+
+## 📚 Education :
+
+- **SENA, 2022**  
+  Technical degree in Software Programming.
+
+- **Universidad EAM, 2023 – Present**  
+  Software Engineering.
+
+- **UDEMY**  
+  - Node.js Course  
+  - Java Course
+
+<br>
+
+## 📞 References :
+
+- **Marlon Campo Amortegui** (Frontend Developer)  
+  +57 318 6823863
+
+- **Brohian Caceres** (Fullstack Developer)  
+  +57 324 2815979
+
+<br>
+
+## 🌟 About Me :
+
+I am a Fullstack Developer eager to learn and take on new challenges. I am looking for opportunities to grow professionally and contribute to innovative projects in a dynamic environment.
