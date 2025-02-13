@@ -2,15 +2,13 @@
 </div>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Stiven Delgado</h1>
 
-![GitHub followers](https://img.shields.io/github/followers/AnushkaWijegoonawardana97?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/AnushkaWijegoonawardana97?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=AnushkaWijegoonawardana97.repoName) <img src="https://komarev.com/ghpvc/?username=AnushkaWijegoonawardana97" alt="AnushkaWijegoonawardana97" />
+![GitHub followers](https://img.shields.io/github/followers/SitvenDelgado?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/SitvenDelgado?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=SitvenDelgado.repoName) <img src="https://komarev.com/ghpvc/?username=SitvenDelgado" alt="SitvenDelgado" />
 
 ## About Me :
 
-- 🏢 I am currently working as a **Junior Software Developer** at [HCL Technologies Lanka](https://hclsrilanka.com/contact-us/)
-- 🏢 Former **Software Engineer** at [iLabs](https://www.ilabs.lk/)
-- 🎓 Studies for Software Engineering at [London Metropolitan University](https://www.londonmet.ac.uk/)
-- 🏡'Lives in **Colombia**
-- ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
+- 🎓 Studying Software Engineering at **Universidad EAM**
+- 🏡 Lives in **Colombia**
+- ⚡ **Fun Facts**: Passionate about learning new technologies and facing new challenges.
 
 <br>
 
@@ -18,7 +16,7 @@
 
 <br>
 
-[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@anushkawijegoonawardana97")](https://www.instagram.com/anushkawijegoonawardana97/) [![@AnushkaWijegoonawardana97](https://img.icons8.com/fluency/48/000000/facebook.png "@AnushkaWijegoonawardana97")](https://www.facebook.com/AnushkaWijegoonawardana97) [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/anushkawijegoonawardana97/) [![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/anushka_wije) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:0711971313) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com)
+[![@delgadositven123](https://img.icons8.com/fluency/48/000000/instagram-new.png "@delgadositven123")](https://www.instagram.com/delgadositven123/) [![@StivenDelgado](https://img.icons8.com/fluency/48/000000/facebook.png "@StivenDelgado")](https://www.facebook.com/StivenDelgado) [![@StivenDelgado](https://img.icons8.com/fluency/48/000000/linkedin.png "@StivenDelgado")](https://www.linkedin.com/in/stiven-delgado/) [![@StivenDelgado](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@StivenDelgado")](https://twitter.com/StivenDelgado) [![@3242815979](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@3242815979")](tel:3242815979) [![@delgadositven123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@delgadositven123@gmail.com")](mailto:delgadositven123@gmail.com)
 
 <br>
 
@@ -26,10 +24,63 @@
 
 <br>
 
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
+### Frontend:
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> <img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/>
+### Backend:
+<img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/color/48/000000/express.png"/> <img src="https://img.icons8.com/color/48/000000/nestjs.png"/> <img src="https://img.icons8.com/color/48/000000/java.png"/> <img src="https://img.icons8.com/color/48/000000/spring-boot.png"/> <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
 
+### Databases:
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
 
-<img src="https://img.icons8.com/color/48/000000/npm.png"/>
+### Tools:
+<img src="https://img.icons8.com/color/48/000000/npm.png"/> <img src="https://img.icons8.com/color/48/000000/git.png"/> <img src="https://img.icons8.com/color/48/000000/vite.png"/> <img src="https://img.icons8.com/color/48/000000/react-query.png"/>
+
+<br>
+
+## Projects 🚀 :
+
+- [Portafolio](https://github.com/SitvenDelgado/portafolio.git)
+- [Spring CRUD](https://github.com/SitvenDelgado/SpringCrud.git)
+- [Firebase CRUD](https://github.com/SitvenDelgado/firebaseCRUD.git)
+
+<br>
+
+## Experience :
+
+### Fullstack Developer – Prospect1
+**Oct 03 2023 – Sept 03 2024**
+- Migrated projects from Express to NestJS, including refactoring and module creation.
+- Developed microservices to improve application scalability.
+- Created stored procedures in MySQL.
+- Worked with React and Vite to create reusable components, implemented TailwindCSS, and managed cache with React Query.
+
+<br>
+
+## Education :
+
+- **SENA, 2022**  
+  Technical degree in Software Programming.
+
+- **Universidad EAM, 2023 – Present**  
+  Software Engineering.
+
+- **UDEMY**  
+  - Node.js Course  
+  - Java Course
+
+<br>
+
+## References :
+
+- **Marlon Campo Amortegui** (Frontend Developer)  
+  +57 318 6823863
+
+- **Brohian Caceres** (Fullstack Developer)  
+  +57 324 2815979
+
+<br>
+
+## About Me :
+
+I am a Fullstack Developer eager to learn and take on new challenges. I am looking for opportunities to grow professionally and contribute to innovative projects in a dynamic environment.
