@@ -56,7 +56,13 @@
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" width="40" height="40"/>
+</p>
+
+### Cloud & DevOps:
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/azure.png" alt="Azure" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" height="40"/>
 </p>
 
 ### Tools:
@@ -65,25 +71,7 @@
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/vite.png" alt="Vite" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/react-query.png" alt="React Query" width="40" height="40"/>
-</p>
-
-<br>
-
-## 🚀 Projects :
-
-<p align="center">
-  <a href="https://github.com/SitvenDelgado/portafolio.git">
-    <img src="https://img.icons8.com/color/48/000000/project.png" alt="Portfolio" width="40" height="40"/>
-    <strong>Portfolio</strong>
-  </a>
-  <a href="https://github.com/SitvenDelgado/SpringCrud.git">
-    <img src="https://img.icons8.com/color/48/000000/project.png" alt="Spring CRUD" width="40" height="40"/>
-    <strong>Spring CRUD</strong>
-  </a>
-  <a href="https://github.com/SitvenDelgado/firebaseCRUD.git">
-    <img src="https://img.icons8.com/color/48/000000/project.png" alt="Firebase CRUD" width="40" height="40"/>
-    <strong>Firebase CRUD</strong>
-  </a>
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" width="40" height="40"/>
 </p>
 
 <br>
@@ -107,7 +95,7 @@
 - **Marlon Campo Amortegui** (Frontend Developer)  
   +57 318 6823863
 
-- **Brohian Caceres** (Fullstack Developer)  
+- **Brahian Caceres** (Fullstack Developer)  
   +57 324 2815979
 
 <br>
