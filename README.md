@@ -31,7 +31,11 @@
 <br>
 
 ## 🛠️ Technologies & Tools :
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=StivenDelgado&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=onedark&hide_border=true&order=2" height="200" alt="languages graph"  />
+</div>
 
+###
 ### Frontend Development:
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="40" height="40"/>
