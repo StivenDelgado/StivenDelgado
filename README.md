@@ -102,3 +102,14 @@
 ## 🌟 About Me :
 
 I am a Fullstack Developer eager to learn and take on new challenges. I am looking for opportunities to grow professionally and contribute to innovative projects in a dynamic environment.
+
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://open.spotify.com/user/oivu93bqpfd3hlo438t1tc58j">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=oivu93bqpfd3hlo438t1tc58j&count=2&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
