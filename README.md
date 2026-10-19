@@ -8,6 +8,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=Turning+ideas+into+scalable+products;TypeScript+%E2%80%A2+Node+%E2%80%A2+React+%E2%80%A2+Python+%E2%80%A2+Java;Microservices%2C+cloud+%26+clean+interfaces;Currently+studying+Software+Engineering+%40+EAM" alt="typing" />
 </a>
 
+<br /><br />
+
+<img src="https://scontent-iad4-1.choicecdn.com/-/rs:fill:2000:2000/g:ce/f:webp/aHR0cHM6Ly9tYWdpYy5kZWNlbnRyYWxpemVkLWNvbnRlbnQuY29tL2lwZnMvYmFmeWJlaWRpYXI2b2gzNGpsaXF1azR2ZDRlcXg0anlvb29yZWc0NHozeWxrbDVjNmFoZmticXhnZ3k" width="420" alt="Stiven Delgado" />
+
 </div>
 
 <br />
