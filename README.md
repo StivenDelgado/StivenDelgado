@@ -1,119 +1,71 @@
 <div align="center">
-  <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Stiven Delgado</h1>
-  <h3 align="center">A passionate Fullstack Developer from Colombia</h3>
+
+<img src="./assets/header.svg" width="100%" alt="Stiven Delgado — Fullstack Developer from Colombia" />
+
+<br />
+
+<a href="https://github.com/StivenDelgado">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=Turning+ideas+into+scalable+products;TypeScript+%E2%80%A2+Node+%E2%80%A2+React+%E2%80%A2+Python+%E2%80%A2+Java;Microservices%2C+cloud+%26+clean+interfaces;Currently+studying+Software+Engineering+%40+EAM" alt="typing" />
+</a>
+
 </div>
 
-<br>
+<br />
 
-## 👨‍💻 About Me :
+<img src="./assets/title-01.svg" width="100%" alt="01 — About" />
 
-- 🎓 I’m currently studying **Software Engineering** at **Universidad EAM**.
-- 🌍 I live in **Colombia**.
-- 🚀 I’m passionate about learning new technologies and facing new challenges.
-- 💡 Fun fact: I love solving problems and building scalable applications.
+<img src="./assets/about.svg" width="100%" alt="const stiven = { role: Fullstack Developer, based: Colombia, studying: Software Engineering @ Universidad EAM, background: Software Programming · SENA }" />
 
-<br>
+<br /><br />
 
-## 🌐 Connect with Me :
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/stiven-delgado/">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="tel:3242815979">
-    <img src="https://img.icons8.com/color/48/000000/phone.png" alt="Phone" width="40" height="40"/>
-  </a>
-  <a href="mailto:delgadositven123@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" width="40" height="40"/>
-  </a>
-</p>
-
-<br>
-
-## 🛠️ Technologies & Tools :
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=StivenDelgado&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=onedark&hide_border=true&order=2" height="200" alt="languages graph"  />
-</div>
-
-###
-### Frontend Development:
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="TailwindCSS" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="40" height="40"/>
-</p>
-
-### Backend Development:
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/nestjs.png" alt="NestJS" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="Java" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="40" height="40"/>
-</p>
-
-### Databases:
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/>
-</p>
-
-### Cloud & DevOps:
-<p align="center">
-  <img src="https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000" alt="Azure" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" height="40"/>
-</p>
-
-### Tools:
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/npm.png" alt="NPM" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/vite.png" alt="Vite" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" width="40" height="40"/>
-</p>
-
-<br>
-
-## 📚 Education :
-
-- **SENA, 2022**  
-  Technical degree in Software Programming.
-
-- **Universidad EAM, 2023 – Present**  
-  Software Engineering.
-
-- **UDEMY**  
-  - Node.js Course  
-  - Java Course
-
-<br>
-
-## 📞 References :
-
-- **Marlon Campo Amortegui** (Frontend Developer)  
-  +57 318 6823863
-
-- **Brahian Caceres** (Fullstack Developer)  
-  +57 324 2815979
-
-<br>
-
-## 🌟 About Me :
-
-I am a Fullstack Developer eager to learn and take on new challenges. I am looking for opportunities to grow professionally and contribute to innovative projects in a dynamic environment.
-
-
-<br clear="both">
+<img src="./assets/title-02.svg" width="100%" alt="02 — Stack" />
 
 <div align="center">
-  <a href="https://open.spotify.com/user/oivu93bqpfd3hlo438t1tc58j">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=oivu93bqpfd3hlo438t1tc58j&count=2&unique=true" alt="Spotify recently played"  />
-  </a>
+
+<sub><code>FRONTEND</code></sub><br />
+<img src="https://skillicons.dev/icons?i=ts,js,react,astro,html,css,tailwind,bootstrap,vite&theme=dark" alt="Frontend stack" />
+
+<br /><br />
+
+<sub><code>BACKEND</code></sub><br />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,py,fastapi,java,spring,kotlin&theme=dark" alt="Backend stack" />
+
+<br /><br />
+
+<sub><code>DATA · CLOUD · TOOLING</code></sub><br />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,aws,azure,docker,git,npm&theme=dark" alt="Data, cloud and tooling" />
+
 </div>
 
-###
+<br /><br />
+
+<img src="./assets/title-03.svg" width="100%" alt="03 — Journey" />
+
+<img src="./assets/journey.svg" width="100%" alt="2022 SENA — Software Programming · 2023 to now Universidad EAM — Software Engineering · Always self-taught" />
+
+<br /><br />
+
+<img src="./assets/title-04.svg" width="100%" alt="04 — Signals" />
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=StivenDelgado&show_icons=true&hide_border=true&border_radius=18&bg_color=080917&title_color=A78BFA&text_color=C9CCEA&icon_color=22D3EE&ring_color=A78BFA" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=StivenDelgado&layout=compact&langs_count=8&hide_border=true&border_radius=18&bg_color=080917&title_color=A78BFA&text_color=C9CCEA" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=StivenDelgado&hide_border=true&border_radius=18&background=080917&stroke=1E1B4B&ring=A78BFA&fire=22D3EE&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A78BFA&sideLabels=8B8FB8&dates=8B8FB8" alt="GitHub streak" />
+
+</div>
+
+<br /><br />
+
+<img src="./assets/title-05.svg" width="100%" alt="05 — Contact" />
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/stiven-delgado/"><img src="./assets/btn-linkedin.svg" width="250" alt="LinkedIn" /></a>&nbsp;<a href="mailto:delgadositven123@gmail.com"><img src="./assets/btn-email.svg" width="250" alt="Email" /></a>&nbsp;<a href="https://github.com/StivenDelgado?tab=followers"><img src="./assets/btn-github.svg" width="250" alt="Follow on GitHub" /></a>
+
+<br /><br />
+
+<img src="./assets/footer.svg" width="100%" alt="Thanks for passing by — Stiven Delgado, made in Colombia" />
+
+</div>
