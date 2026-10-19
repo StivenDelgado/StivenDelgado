@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Journey: SENA 2022, Universidad EAM 2023 to present, self-taught always">
+  <style>
+  .fade{animation:in 1.6s cubic-bezier(.2,.7,.2,1) both}
+  @keyframes in{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+  .tw{animation:tw ease-in-out infinite alternate}
+  @keyframes tw{from{opacity:.15}to{opacity:.9}}
+  .b{animation:drift ease-in-out infinite alternate}
+  @keyframes drift{0%{transform:translate(0,0)}100%{transform:translate(var(--dx),var(--dy))}}
+</style>
+  <defs>
+    <clipPath id="card"><rect width="1200" height="300" rx="24"/></clipPath>
+    <filter id="soft" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="60"/></filter>
+    <filter id="g" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="8"/></filter>
+    <linearGradient id="track" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#a78bfa" stop-opacity="0"/><stop offset=".15" stop-color="#a78bfa" stop-opacity=".6"/><stop offset=".5" stop-color="#22d3ee" stop-opacity=".8"/><stop offset=".85" stop-color="#2563eb" stop-opacity=".6"/><stop offset="1" stop-color="#2563eb" stop-opacity="0"/></linearGradient>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="1200" height="300" fill="#080917"/>
+    <g filter="url(#soft)" opacity=".45">
+      <circle class="b" style="--dx:80px;--dy:20px;animation-duration:20s" cx="300" cy="60" r="150" fill="#7c3aed"/>
+      <circle class="b" style="--dx:-80px;--dy:20px;animation-duration:24s" cx="950" cy="260" r="150" fill="#2563eb"/>
+    </g>
+    <g><circle cx="1027.4" cy="269.6" r="1.20" fill="#fff" class="tw" style="animation-duration:4.7s;animation-delay:-1.2s"/><circle cx="641.5" cy="233.0" r="0.60" fill="#fff" class="tw" style="animation-duration:6.1s;animation-delay:-3.4s"/><circle cx="697.9" cy="285.3" r="0.74" fill="#fff" class="tw" style="animation-duration:2.1s;animation-delay:-3.7s"/><circle cx="617.6" cy="184.2" r="1.16" fill="#fff" class="tw" style="animation-duration:5.4s;animation-delay:-0.2s"/><circle cx="847.5" cy="294.3" r="1.33" fill="#fff" class="tw" style="animation-duration:5.4s;animation-delay:-2.8s"/><circle cx="262.0" cy="189.0" r="1.02" fill="#fff" class="tw" style="animation-duration:4.2s;animation-delay:-0.1s"/><circle cx="1035.4" cy="195.8" r="1.47" fill="#fff" class="tw" style="animation-duration:3.5s;animation-delay:-3.7s"/><circle cx="1125.9" cy="171.3" r="1.08" fill="#fff" class="tw" style="animation-duration:3.0s;animation-delay:-1.2s"/><circle cx="536.0" cy="129.7" r="0.45" fill="#fff" class="tw" style="animation-duration:4.8s;animation-delay:-3.9s"/><circle cx="1008.4" cy="25.5" r="0.74" fill="#fff" class="tw" style="animation-duration:5.1s;animation-delay:-2.1s"/><circle cx="380.9" cy="87.0" r="0.48" fill="#fff" class="tw" style="animation-duration:3.8s;animation-delay:-2.2s"/><circle cx="762.1" cy="151.2" r="1.00" fill="#fff" class="tw" style="animation-duration:4.2s;animation-delay:-3.1s"/><circle cx="1077.4" cy="283.6" r="0.91" fill="#fff" class="tw" style="animation-duration:6.2s;animation-delay:-4.9s"/><circle cx="778.3" cy="121.4" r="1.09" fill="#fff" class="tw" style="animation-duration:2.3s;animation-delay:-1.4s"/><circle cx="34.0" cy="252.2" r="0.52" fill="#fff" class="tw" style="animation-duration:3.2s;animation-delay:-3.3s"/><circle cx="265.8" cy="81.7" r="0.56" fill="#fff" class="tw" style="animation-duration:5.8s;animation-delay:-1.5s"/><circle cx="749.5" cy="226.7" r="0.42" fill="#fff" class="tw" style="animation-duration:6.1s;animation-delay:-4.6s"/><circle cx="922.0" cy="286.1" r="0.48" fill="#fff" class="tw" style="animation-duration:2.9s;animation-delay:-0.2s"/><circle cx="1179.8" cy="143.0" r="0.70" fill="#fff" class="tw" style="animation-duration:4.6s;animation-delay:-4.2s"/><circle cx="849.4" cy="237.2" r="0.41" fill="#fff" class="tw" style="animation-duration:2.6s;animation-delay:-3.1s"/><circle cx="899.2" cy="26.4" r="0.72" fill="#fff" class="tw" style="animation-duration:4.0s;animation-delay:-3.9s"/><circle cx="810.9" cy="189.4" r="0.57" fill="#fff" class="tw" style="animation-duration:6.7s;animation-delay:-5.0s"/><circle cx="742.0" cy="216.5" r="0.58" fill="#fff" class="tw" style="animation-duration:6.4s;animation-delay:-0.8s"/><circle cx="412.7" cy="209.1" r="0.86" fill="#fff" class="tw" style="animation-duration:4.3s;animation-delay:-4.9s"/><circle cx="537.4" cy="165.5" r="1.13" fill="#fff" class="tw" style="animation-duration:2.5s;animation-delay:-0.9s"/><circle cx="221.3" cy="251.4" r="0.77" fill="#fff" class="tw" style="animation-duration:7.0s;animation-delay:-2.7s"/><circle cx="154.4" cy="143.6" r="0.96" fill="#fff" class="tw" style="animation-duration:2.1s;animation-delay:-2.7s"/><circle cx="982.6" cy="130.4" r="0.63" fill="#fff" class="tw" style="animation-duration:2.3s;animation-delay:-3.2s"/><circle cx="522.9" cy="39.0" r="1.32" fill="#fff" class="tw" style="animation-duration:2.1s;animation-delay:-4.6s"/><circle cx="864.0" cy="267.0" r="1.14" fill="#fff" class="tw" style="animation-duration:5.4s;animation-delay:-4.2s"/></g>
+    <rect x="40" y="120" width="1120" height="2" fill="url(#track)"/>
+    <circle r="5" cy="121" fill="#fff" filter="url(#g)"><animate attributeName="cx" values="60;1140" dur="6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.9;1" dur="6s" repeatCount="indefinite"/></circle>
+    
+    <g class="fade" style="animation-delay:0.2s" text-anchor="middle">
+      <text x="180" y="84" font-family="'JetBrains Mono','SF Mono',ui-monospace,Menlo,Consolas,monospace" font-size="13" letter-spacing="3" fill="#8b8fb8">2022</text>
+      
+      <circle cx="180" cy="121" r="8" fill="#080917" stroke="#a78bfa" stroke-width="2"/>
+      <circle cx="180" cy="121" r="3.5" fill="#a78bfa"/>
+      <text x="180" y="178" font-family="'Inter','Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="28" font-weight="800" fill="#fff" letter-spacing="-.5">SENA</text>
+      <text x="180" y="212" font-family="'Inter','Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="17" fill="#e7e9ff" fill-opacity=".75">Technical degree in</text>
+      <text x="180" y="236" font-family="'Inter','Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="17" fill="#e7e9ff" fill-opacity=".5">Software Programming</text>
+    </g>
+    <g class="fade" style="animation-delay:0.45s" text-anchor="middle">
+      <text x="600" y="84" font-family="'JetBrains Mono','SF Mono',ui-monospace,Menlo,Consolas,monospace" font-size="13" letter-spacing="3" fill="#22d3ee">2023 — NOW</text>
+      <circle cx="600" cy="121" r="10" fill="none" stroke="#22d3ee" stroke-width="1.5"><animate attributeName="r" values="8;24" dur="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values=".9;0" dur="2.4s" repeatCount="indefinite"/></circle>
+      <circle cx="600" cy="121" r="8" fill="#080917" stroke="#22d3ee" stroke-width="2"/>
+      <circle cx="600" cy="121" r="3.5" fill="#22d3ee"/>
+      <text x="600" y="178" font-family="'Inter','Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="28" font-weight="800" fill="#fff" letter-spacing="-.5">Universidad EAM</text>
+      <text x="600" y="212" font-family="'Inter','Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="17" fill="#e7e9ff" fill-opacity=".75">Software Engineering</text>
+      <text x="600" y="236" font-family="'Inter','Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="17" fill="#e7e9ff" fill-opacity=".5">in progress</text>
+    </g>
+    <g class="fade" style="animation-delay:0.7s" text-anchor="middle">
+      <text x="1020" y="84" font-family="'JetBrains Mono','SF Mono',ui-monospace,Menlo,Consolas,monospace" font-size="13" letter-spacing="3" fill="#8b8fb8">ALWAYS</text>
+      
+      <circle cx="1020" cy="121" r="8" fill="#080917" stroke="#a78bfa" stroke-width="2"/>
+      <circle cx="1020" cy="121" r="3.5" fill="#a78bfa"/>
+      <text x="1020" y="178" font-family="'Inter','Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="28" font-weight="800" fill="#fff" letter-spacing="-.5">Self-taught</text>
+      <text x="1020" y="212" font-family="'Inter','Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="17" fill="#e7e9ff" fill-opacity=".75">Udemy · Node.js · Java</text>
+      <text x="1020" y="236" font-family="'Inter','Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="17" fill="#e7e9ff" fill-opacity=".5">+ shipping side projects</text>
+    </g>
+    <rect x=".5" y=".5" width="1199" height="299" rx="23.5" fill="none" stroke="#fff" stroke-opacity=".09"/>
+  </g>
+</svg>

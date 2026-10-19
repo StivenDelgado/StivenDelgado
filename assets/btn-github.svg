@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="72" viewBox="0 0 300 72" role="img" aria-label="FOLLOW">
+  <defs>
+    <linearGradient id="bd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22d3ee" stop-opacity=".9"/><stop offset="1" stop-color="#fff" stop-opacity=".08"/></linearGradient>
+    <linearGradient id="sh" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".12"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+    <clipPath id="c"><rect x="1" y="1" width="298" height="70" rx="35"/></clipPath>
+  </defs>
+  <style>.sh{animation:m 4.5s ease-in-out infinite}@keyframes m{from{transform:translateX(-160px)}60%,to{transform:translateX(320px)}}</style>
+  <rect x="1" y="1" width="298" height="70" rx="35" fill="#0a0b1c"/>
+  <g clip-path="url(#c)"><rect class="sh" width="120" height="72" fill="url(#sh)"/></g>
+  <rect x="1" y="1" width="298" height="70" rx="35" fill="none" stroke="url(#bd)" stroke-width="1.5"/>
+  <circle cx="36" cy="36" r="20" fill="#22d3ee" fill-opacity=".16"/>
+  <text x="36" y="42" text-anchor="middle" font-family="'Inter','Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="17" font-weight="800" fill="#22d3ee">◎</text>
+  <text x="70" y="42" font-family="'JetBrains Mono','SF Mono',ui-monospace,Menlo,Consolas,monospace" font-size="15" letter-spacing="3" fill="#e7e9ff">FOLLOW</text>
+  <text x="268" y="42" text-anchor="end" font-family="'Inter','Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="18" fill="#22d3ee">↗</text>
+</svg>

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Thanks for passing by">
+  <style>
+  .fade{animation:in 1.6s cubic-bezier(.2,.7,.2,1) both}
+  @keyframes in{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+  .tw{animation:tw ease-in-out infinite alternate}
+  @keyframes tw{from{opacity:.15}to{opacity:.9}}
+  .b{animation:drift ease-in-out infinite alternate}
+  @keyframes drift{0%{transform:translate(0,0)}100%{transform:translate(var(--dx),var(--dy))}}
+</style>
+  <defs>
+    <clipPath id="card"><rect width="1200" height="260" rx="28"/></clipPath>
+    <filter id="soft" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="70"/></filter>
+    
+  <filter id="grain" x="0" y="0" width="100%" height="100%">
+    <feTurbulence type="fractalNoise" baseFrequency=".85" numOctaves="2" stitchTiles="stitch"/>
+    <feColorMatrix type="saturate" values="0"/>
+  </filter>
+    
+  <linearGradient id="rFar" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#4c3a9e" stop-opacity=".55"/><stop offset="1" stop-color="#1a1440" stop-opacity=".2"/></linearGradient>
+  <linearGradient id="rMid" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#241a5c" stop-opacity=".9"/><stop offset="1" stop-color="#0b0a24"/></linearGradient>
+  <linearGradient id="rNear" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0c0b22"/><stop offset="1" stop-color="#05060f"/></linearGradient>
+  <linearGradient id="fog" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#a78bfa" stop-opacity="0"/><stop offset=".5" stop-color="#a78bfa" stop-opacity=".10"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></linearGradient>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="1200" height="260" fill="#05060f"/>
+    <g filter="url(#soft)" opacity=".7">
+      <circle class="b" style="--dx:100px;--dy:10px;animation-duration:20s" cx="420" cy="170" r="180" fill="#7c3aed"/>
+      <circle class="b" style="--dx:-100px;--dy:10px;animation-duration:24s" cx="820" cy="190" r="180" fill="#2563eb"/>
+    </g>
+    <g><circle cx="330.2" cy="101.4" r="0.91" fill="#fff" class="tw" style="animation-duration:2.0s;animation-delay:-0.6s"/><circle cx="107.0" cy="8.8" r="0.97" fill="#fff" class="tw" style="animation-duration:2.6s;animation-delay:-1.1s"/><circle cx="433.6" cy="98.2" r="0.67" fill="#fff" class="tw" style="animation-duration:3.2s;animation-delay:-3.6s"/><circle cx="900.3" cy="102.1" r="1.35" fill="#fff" class="tw" style="animation-duration:2.9s;animation-delay:-1.4s"/><circle cx="656.1" cy="60.6" r="1.05" fill="#fff" class="tw" style="animation-duration:4.0s;animation-delay:-2.8s"/><circle cx="1054.8" cy="127.9" r="0.85" fill="#fff" class="tw" style="animation-duration:3.8s;animation-delay:-4.9s"/><circle cx="887.3" cy="140.5" r="0.66" fill="#fff" class="tw" style="animation-duration:6.8s;animation-delay:-4.6s"/><circle cx="856.1" cy="85.2" r="1.11" fill="#fff" class="tw" style="animation-duration:6.5s;animation-delay:-0.9s"/><circle cx="577.2" cy="66.3" r="1.25" fill="#fff" class="tw" style="animation-duration:5.7s;animation-delay:-3.5s"/><circle cx="734.3" cy="0.9" r="0.73" fill="#fff" class="tw" style="animation-duration:5.8s;animation-delay:-2.8s"/><circle cx="40.5" cy="82.7" r="1.42" fill="#fff" class="tw" style="animation-duration:2.1s;animation-delay:-4.8s"/><circle cx="800.4" cy="82.2" r="1.35" fill="#fff" class="tw" style="animation-duration:6.6s;animation-delay:-4.6s"/><circle cx="66.5" cy="113.1" r="0.80" fill="#fff" class="tw" style="animation-duration:5.5s;animation-delay:-0.4s"/><circle cx="494.4" cy="11.9" r="0.73" fill="#fff" class="tw" style="animation-duration:3.8s;animation-delay:-1.6s"/><circle cx="467.1" cy="1.8" r="0.84" fill="#fff" class="tw" style="animation-duration:4.1s;animation-delay:-4.0s"/><circle cx="984.5" cy="7.8" r="0.89" fill="#fff" class="tw" style="animation-duration:4.9s;animation-delay:-3.2s"/><circle cx="162.5" cy="17.6" r="0.84" fill="#fff" class="tw" style="animation-duration:2.2s;animation-delay:-1.4s"/><circle cx="797.1" cy="27.9" r="1.47" fill="#fff" class="tw" style="animation-duration:6.4s;animation-delay:-2.8s"/><circle cx="190.0" cy="63.1" r="1.17" fill="#fff" class="tw" style="animation-duration:3.4s;animation-delay:-2.2s"/><circle cx="370.2" cy="58.5" r="0.62" fill="#fff" class="tw" style="animation-duration:2.0s;animation-delay:-1.1s"/><circle cx="747.4" cy="98.3" r="0.43" fill="#fff" class="tw" style="animation-duration:6.7s;animation-delay:-0.4s"/><circle cx="129.6" cy="108.6" r="1.15" fill="#fff" class="tw" style="animation-duration:5.4s;animation-delay:-2.9s"/><circle cx="1128.3" cy="8.9" r="0.67" fill="#fff" class="tw" style="animation-duration:2.8s;animation-delay:-1.8s"/><circle cx="392.2" cy="30.3" r="0.44" fill="#fff" class="tw" style="animation-duration:2.8s;animation-delay:-2.6s"/><circle cx="1165.0" cy="23.0" r="0.97" fill="#fff" class="tw" style="animation-duration:5.1s;animation-delay:-0.6s"/><circle cx="1101.1" cy="101.2" r="1.20" fill="#fff" class="tw" style="animation-duration:6.7s;animation-delay:-3.5s"/><circle cx="176.8" cy="57.8" r="0.89" fill="#fff" class="tw" style="animation-duration:3.4s;animation-delay:-0.7s"/><circle cx="486.4" cy="118.7" r="1.11" fill="#fff" class="tw" style="animation-duration:5.4s;animation-delay:-4.1s"/><circle cx="1022.6" cy="80.7" r="0.40" fill="#fff" class="tw" style="animation-duration:3.7s;animation-delay:-4.8s"/><circle cx="799.4" cy="110.5" r="1.31" fill="#fff" class="tw" style="animation-duration:4.0s;animation-delay:-3.8s"/><circle cx="433.0" cy="80.5" r="0.42" fill="#fff" class="tw" style="animation-duration:4.8s;animation-delay:-0.0s"/><circle cx="617.5" cy="73.6" r="0.83" fill="#fff" class="tw" style="animation-duration:2.8s;animation-delay:-2.5s"/><circle cx="222.4" cy="79.5" r="0.51" fill="#fff" class="tw" style="animation-duration:2.1s;animation-delay:-3.9s"/><circle cx="674.7" cy="121.1" r="1.34" fill="#fff" class="tw" style="animation-duration:5.3s;animation-delay:-3.7s"/><circle cx="1001.2" cy="58.0" r="1.40" fill="#fff" class="tw" style="animation-duration:3.9s;animation-delay:-1.9s"/><circle cx="35.7" cy="12.3" r="0.51" fill="#fff" class="tw" style="animation-duration:2.2s;animation-delay:-2.9s"/><circle cx="811.5" cy="30.1" r="0.41" fill="#fff" class="tw" style="animation-duration:2.2s;animation-delay:-3.5s"/><circle cx="1161.4" cy="133.0" r="1.30" fill="#fff" class="tw" style="animation-duration:6.7s;animation-delay:-3.7s"/><circle cx="664.4" cy="93.0" r="0.47" fill="#fff" class="tw" style="animation-duration:3.8s;animation-delay:-2.4s"/><circle cx="630.6" cy="77.1" r="1.05" fill="#fff" class="tw" style="animation-duration:5.2s;animation-delay:-2.5s"/></g>
+    
+    <g class="b" style="--dx:-18px;--dy:0px;animation-duration:22s"><path d="M0 170 Q60 140 120 155 T260 120 T400 150 T560 105 T720 145 T880 110 T1040 148 T1200 125 V260 H0Z" fill="url(#rFar)"/></g>
+    <rect y="130" width="1200" height="130" fill="url(#fog)"/>
+    <g class="b" style="--dx:12px;--dy:0px;animation-duration:26s"><path d="M0 210 Q80 175 160 192 T330 165 T500 200 T680 168 T860 202 T1030 170 T1200 196 V260 H0Z" fill="url(#rMid)"/></g>
+    <path d="M0 248 Q90 222 180 234 T370 216 T560 242 T760 220 T960 244 T1200 224 V260 H0Z" fill="url(#rNear)"/>
+    <g text-anchor="middle">
+      <text x="600" y="78" font-family="'Inter','Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="34" font-weight="800" fill="#fff" letter-spacing="-.5">Thanks for passing by.</text>
+      <text x="600" y="110" font-family="'JetBrains Mono','SF Mono',ui-monospace,Menlo,Consolas,monospace" font-size="13" letter-spacing="4" fill="#a78bfa">LET'S BUILD SOMETHING THAT SCALES</text>
+    </g>
+    <text x="600" y="236" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',ui-monospace,Menlo,Consolas,monospace" font-size="11" letter-spacing="3" fill="#8b8fb8">STIVEN DELGADO · MADE IN COLOMBIA</text>
+    <rect width="1200" height="260" filter="url(#grain)" opacity=".07"/>
+    <rect x=".5" y=".5" width="1199" height="259" rx="27.5" fill="none" stroke="#fff" stroke-opacity=".08"/>
+  </g>
+</svg>
